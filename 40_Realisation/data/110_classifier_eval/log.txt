@@ -1,0 +1,988 @@
+now starting
+cluster=_2
+5779.708025693893
+id=8_cluster=2
+5783.1057550907135
+id=10_cluster=2
+5813.6643261909485
+id=12_cluster=2
+5820.140106201172
+id=13_cluster=2
+5847.406183958054
+id=15_cluster=2
+5854.698365449905
+id=20_cluster=2
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+id=20_cluster=2_didnt work
+id=21_cluster=2
+5889.650766134262
+id=25_cluster=2
+5892.55637216568
+id=27_cluster=2
+5895.54646396637
+id=33_cluster=2
+5914.515083551407
+id=35_cluster=2
+5928.1996693611145
+id=40_cluster=2
+5937.985888957977
+id=46_cluster=2
+5949.591392755508
+id=48_cluster=2
+5976.522356748581
+id=49_cluster=2
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=49_cluster=2_didnt work
+id=52_cluster=2
+5993.587985277176
+id=54_cluster=2
+6000.901889324188
+id=55_cluster=2
+6012.192028045654
+cluster=_3
+9342.325093507767
+id=8_cluster=3
+9346.065094709396
+id=10_cluster=3
+9373.922096729279
+id=12_cluster=3
+9380.171897172928
+id=13_cluster=3
+9406.066941738129
+id=15_cluster=3
+9412.692555904388
+id=20_cluster=3
+9422.771647930145
+id=21_cluster=3
+9449.66917514801
+id=25_cluster=3
+id=25_cluster=3_didnt work
+id=27_cluster=3
+9455.407039880753
+id=33_cluster=3
+9469.23943567276
+id=35_cluster=3
+9482.165097951889
+id=40_cluster=3
+9492.092962741852
+id=46_cluster=3
+9503.84039068222
+id=48_cluster=3
+9524.44466805458
+id=49_cluster=3
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=49_cluster=3_didnt work
+id=52_cluster=3
+9539.448013782501
+id=54_cluster=3
+9547.437349319458
+id=55_cluster=3
+9558.497076272964
+cluster=_4
+12684.864256381989
+id=8_cluster=4
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+12688.638234615326
+id=10_cluster=4
+id=10_cluster=4_didnt work
+id=12_cluster=4
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=12_cluster=4_didnt work
+id=13_cluster=4
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+12719.773400783539
+id=15_cluster=4
+12726.154164075851
+id=20_cluster=4
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+id=20_cluster=4_didnt work
+id=21_cluster=4
+18553.151676416397
+id=25_cluster=4
+id=25_cluster=4_didnt work
+id=27_cluster=4
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+id=27_cluster=4_didnt work
+id=33_cluster=4
+18572.272756814957
+id=35_cluster=4
+18584.33450126648
+id=40_cluster=4
+id=40_cluster=4_didnt work
+id=46_cluster=4
+id=46_cluster=4_didnt work
+id=48_cluster=4
+18611.099463939667
+id=49_cluster=4
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=49_cluster=4_didnt work
+id=52_cluster=4
+18631.678340435028
+id=54_cluster=4
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=54_cluster=4_didnt work
+id=55_cluster=4
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+id=55_cluster=4_didnt work
+cluster=_5
+21562.938467264175
+id=8_cluster=5
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+21567.08811879158
+id=10_cluster=5
+21592.06387758255
+id=12_cluster=5
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=12_cluster=5_didnt work
+id=13_cluster=5
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+21622.88999605179
+id=15_cluster=5
+21629.971422433853
+id=20_cluster=5
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+id=20_cluster=5_didnt work
+id=21_cluster=5
+id=21_cluster=5_didnt work
+id=25_cluster=5
+id=25_cluster=5_didnt work
+id=27_cluster=5
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+id=27_cluster=5_didnt work
+id=33_cluster=5
+21675.070719003677
+id=35_cluster=5
+21687.942735671997
+id=40_cluster=5
+id=40_cluster=5_didnt work
+id=46_cluster=5
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+21708.627295970917
+id=48_cluster=5
+21727.330979824066
+id=49_cluster=5
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=49_cluster=5_didnt work
+id=52_cluster=5
+id=52_cluster=5_didnt work
+id=54_cluster=5
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=54_cluster=5_didnt work
+id=55_cluster=5
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+id=55_cluster=5_didnt work
+cluster=_6
+23734.26291656494
+id=8_cluster=6
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+23738.7557117939
+id=10_cluster=6
+23762.156391382217
+id=12_cluster=6
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=12_cluster=6_didnt work
+id=13_cluster=6
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+23792.86790037155
+id=15_cluster=6
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+23799.73305296898
+id=20_cluster=6
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+id=20_cluster=6_didnt work
+id=21_cluster=6
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.
+  warnings.warn(
+id=21_cluster=6_didnt work
+id=25_cluster=6
+id=25_cluster=6_didnt work
+id=27_cluster=6
+id=27_cluster=6_didnt work
+id=33_cluster=6
+id=33_cluster=6_didnt work
+id=35_cluster=6
+23854.62537908554
+id=40_cluster=6
+id=40_cluster=6_didnt work
+id=46_cluster=6
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+id=46_cluster=6_didnt work
+id=48_cluster=6
+23891.682638406754
+id=49_cluster=6
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=49_cluster=6_didnt work
+id=52_cluster=6
+id=52_cluster=6_didnt work
+id=54_cluster=6
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=54_cluster=6_didnt work
+id=55_cluster=6
+id=55_cluster=6_didnt work
+cluster=_7
+25883.903085708618
+id=8_cluster=7
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=5.
+  warnings.warn(
+id=8_cluster=7_didnt work
+id=10_cluster=7
+25911.783522605896
+id=12_cluster=7
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=12_cluster=7_didnt work
+id=13_cluster=7
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+25942.136958360672
+id=15_cluster=7
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+id=15_cluster=7_didnt work
+id=20_cluster=7
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+id=20_cluster=7_didnt work
+id=21_cluster=7
+id=21_cluster=7_didnt work
+id=25_cluster=7
+id=25_cluster=7_didnt work
+id=27_cluster=7
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+id=27_cluster=7_didnt work
+id=33_cluster=7
+id=33_cluster=7_didnt work
+id=35_cluster=7
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=35_cluster=7_didnt work
+id=40_cluster=7
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Specificity is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+id=40_cluster=7_didnt work
+id=46_cluster=7
+id=46_cluster=7_didnt work
+id=48_cluster=7
+26042.340964078903
+id=49_cluster=7
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=49_cluster=7_didnt work
+id=52_cluster=7
+id=52_cluster=7_didnt work
+id=54_cluster=7
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=54_cluster=7_didnt work
+id=55_cluster=7
+id=55_cluster=7_didnt work
+cluster=_8
+27892.466692209244
+id=8_cluster=8
+id=8_cluster=8_didnt work
+id=10_cluster=8
+27918.04861664772
+id=12_cluster=8
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=12_cluster=8_didnt work
+id=13_cluster=8
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+27948.63160943985
+id=15_cluster=8
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+id=15_cluster=8_didnt work
+id=20_cluster=8
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+id=20_cluster=8_didnt work
+id=21_cluster=8
+id=21_cluster=8_didnt work
+id=25_cluster=8
+id=25_cluster=8_didnt work
+id=27_cluster=8
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+id=27_cluster=8_didnt work
+id=33_cluster=8
+id=33_cluster=8_didnt work
+id=35_cluster=8
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+id=35_cluster=8_didnt work
+id=40_cluster=8
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+id=40_cluster=8_didnt work
+id=46_cluster=8
+id=46_cluster=8_didnt work
+id=48_cluster=8
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=5.
+  warnings.warn(
+id=48_cluster=8_didnt work
+id=49_cluster=8
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=49_cluster=8_didnt work
+id=52_cluster=8
+id=52_cluster=8_didnt work
+id=54_cluster=8
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=54_cluster=8_didnt work
+id=55_cluster=8
+id=55_cluster=8_didnt work
+cluster=_9
+29922.669750213623
+id=8_cluster=9
+id=8_cluster=9_didnt work
+id=10_cluster=9
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=5.
+  warnings.warn(
+id=10_cluster=9_didnt work
+id=12_cluster=9
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=12_cluster=9_didnt work
+id=13_cluster=9
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+29970.869601249695
+id=15_cluster=9
+id=15_cluster=9_didnt work
+id=20_cluster=9
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 4 members, which is less than n_splits=5.
+  warnings.warn(
+id=20_cluster=9_didnt work
+id=21_cluster=9
+id=21_cluster=9_didnt work
+id=25_cluster=9
+id=25_cluster=9_didnt work
+id=27_cluster=9
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+id=27_cluster=9_didnt work
+id=33_cluster=9
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+id=33_cluster=9_didnt work
+id=35_cluster=9
+id=35_cluster=9_didnt work
+id=40_cluster=9
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+id=40_cluster=9_didnt work
+id=46_cluster=9
+id=46_cluster=9_didnt work
+id=48_cluster=9
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=5.
+  warnings.warn(
+id=48_cluster=9_didnt work
+id=49_cluster=9
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=49_cluster=9_didnt work
+id=52_cluster=9
+id=52_cluster=9_didnt work
+id=54_cluster=9
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+id=54_cluster=9_didnt work
+id=55_cluster=9
+id=55_cluster=9_didnt work
+cluster=_10
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+general_10_didnt work
+id=8_cluster=10
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+id=8_cluster=10_didnt work
+id=10_cluster=10
+id=10_cluster=10_didnt work
+id=12_cluster=10
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=12_cluster=10_didnt work
+id=13_cluster=10
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+31955.56647181511
+id=15_cluster=10
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+id=15_cluster=10_didnt work
+id=20_cluster=10
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+id=20_cluster=10_didnt work
+id=21_cluster=10
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+id=21_cluster=10_didnt work
+id=25_cluster=10
+id=25_cluster=10_didnt work
+id=27_cluster=10
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+id=27_cluster=10_didnt work
+id=33_cluster=10
+id=33_cluster=10_didnt work
+id=35_cluster=10
+id=35_cluster=10_didnt work
+id=40_cluster=10
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+id=40_cluster=10_didnt work
+id=46_cluster=10
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+y_train has not more than 1 unique class, so no prediction is possible
+id=46_cluster=10_didnt work
+id=48_cluster=10
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=5.
+  warnings.warn(
+id=48_cluster=10_didnt work
+id=49_cluster=10
+C:\Users\trang\anaconda3\lib\site-packages\sklearn\model_selection\_split.py:676: UserWarning: The least populated class in y has only 1 members, which is less than n_splits=5.
+  warnings.warn(
+id=49_cluster=10_didnt work
+id=52_cluster=10
+id=52_cluster=10_didnt work
+id=54_cluster=10
+id=54_cluster=10_didnt work
+id=55_cluster=10
+id=55_cluster=10_didnt work
+8:54:28.552549
+
+Process finished with exit code 0
